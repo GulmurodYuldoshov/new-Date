@@ -28,5 +28,5 @@ movies.forEach(function(movie) {
 
     elLi.appendChild(elDiv)
     elList.appendChild(elLi)
-    console.log(elList)
+
 })
