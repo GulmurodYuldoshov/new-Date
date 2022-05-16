@@ -5,7 +5,7 @@ movies.forEach(function(movie) {
     var elDiv = document.createElement('div')
     var link = movie.trailer.split("=");
     elDiv.className = 'card'
-    elDiv.style.width = '230px '
+    elDiv.style.width = '270px '
     elDiv.style.height = '450px'
     elLi.style.marginBottom = '10px'
     elLi.style.listStyle = 'none'
